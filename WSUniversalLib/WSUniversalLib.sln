@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WSUniversalLib", "WSUniversalLib.csproj", "{34C832F9-D537-461C-B4CB-26CE6EFE443E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UT493Popov", "..\UT493Popov\UT493Popov.csproj", "{A395AD15-9437-49AD-B58F-67D33E3689BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34C832F9-D537-461C-B4CB-26CE6EFE443E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34C832F9-D537-461C-B4CB-26CE6EFE443E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34C832F9-D537-461C-B4CB-26CE6EFE443E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34C832F9-D537-461C-B4CB-26CE6EFE443E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A395AD15-9437-49AD-B58F-67D33E3689BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A395AD15-9437-49AD-B58F-67D33E3689BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A395AD15-9437-49AD-B58F-67D33E3689BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A395AD15-9437-49AD-B58F-67D33E3689BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35C0C277-880F-461C-9AE4-C4A842A279B4}
+	EndGlobalSection
+EndGlobal
